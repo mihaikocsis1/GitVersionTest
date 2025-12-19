@@ -5,4 +5,6 @@
  *      Author: mihai
  */
 
-
+int main(){
+	return 0;
+}
