@@ -6,7 +6,6 @@
  *      Author: mihai testestest
 =======
  *      Author: mihai
- * blabla
 >>>>>>> branch 'master' of https://github.com/mihaikocsis1/GitVersionTest.git
  */
 
